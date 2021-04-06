@@ -6,7 +6,7 @@ describe('card', () => {
 
   it('should render with the correct text', () => {
     const { getByText } = render(<BasicCard />);
-    const rendered = getByText('hello from Card');
+    const rendered = getByText('Click Here!');
     expect(rendered).toBeTruthy();
   });
 

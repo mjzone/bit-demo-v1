@@ -2,14 +2,14 @@
 
 {
     "ui/button": {
-        "scope": "",
-        "version": "",
+        "scope": "bitwave.demo-scope",
+        "version": "1.0.0",
         "mainFile": "index.js",
         "rootDir": "my-scope/ui/button"
     },
     "ui/card": {
-        "scope": "",
-        "version": "",
+        "scope": "bitwave.demo-scope",
+        "version": "1.0.0",
         "mainFile": "index.js",
         "rootDir": "my-scope/ui/card"
     },
