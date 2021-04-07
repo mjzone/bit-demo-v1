@@ -9,7 +9,7 @@
     },
     "ui/card": {
         "scope": "bitwave.demo-scope",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "mainFile": "index.js",
         "rootDir": "my-scope/ui/card"
     },
